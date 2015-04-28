@@ -1,0 +1,30 @@
+{
+	"total":5,
+	"gifs":[
+		{
+			"id":1,
+			"votes":13,
+			"uri":"http://a.fod4.com/misc/Internet%20Pizza.gif",
+		},
+		{
+			"id":2,
+			"votes":5,
+			"uri":"http://38.media.tumblr.com/8229e8b3a82f6fe8900893ec05cad3ac/tumblr_mitvsiEBON1s6sejso1_400.gif",
+		},
+		{
+			"id":3,
+			"votes":4,
+			"uri":"http://media3.giphy.com/media/sTUWqCKtxd01W/giphy.gif",
+		},
+		{
+			"id":4,
+			"votes":3,
+			"uri":"http://media1.giphy.com/media/2LqQkIPKNevkc/giphy.gif",
+		},
+		{
+			"id":5,
+			"votes":2,
+			"uri":"http://33.media.tumblr.com/8b66ac602bc8fef00ef553fa5cafb16c/tumblr_mkdhccF9UR1s6sejso1_1280.gif",
+		},
+	]
+}
